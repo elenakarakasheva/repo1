@@ -1,12 +1,11 @@
-<<<<<<< HEAD
+ HEAD
 ahghghghhg
    
 =======
-arhdhtdh
-<<<<<<< HEAD
+a HEAD
    mhbhmh 22
->>>>>>> 8bbc4dfe82b2d38b58d7d1acb4ac6fc9c18d45c1
+ 8bbc4dfe82b2d38b58d7d1acb4ac6fc9c18d45c1
 =======
          mhbhmh 22
->>>>>>> 3e52eadaa01ee32b507d6b18af3239140bc6c758
+ 3e52eadaa01ee32b507d6b18af3239140bc6c758
 
